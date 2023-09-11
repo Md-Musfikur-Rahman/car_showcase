@@ -13,4 +13,5 @@ export const options: NextAuthOptions = {
       clientSecret: process.env.GOOGLE_Client_Secret as string,
     }),
   ],
+  secret: process.env.NEXTAUTH_SECRET,
 };
