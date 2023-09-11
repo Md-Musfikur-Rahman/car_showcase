@@ -9,6 +9,9 @@ import CarCard from "./CarCard";
 import CarDetails from "./CarDetails";
 
 import ShowMore from "./ShowMore";
+import SignInButton from "./SignInButton";
+import Provider from "./Provider";
+import UserBadge from "./UserBadge";
 
 export {
   Hero,
@@ -21,4 +24,7 @@ export {
   CarCard,
   CarDetails,
   ShowMore,
+  SignInButton,
+  Provider,
+  UserBadge,
 };

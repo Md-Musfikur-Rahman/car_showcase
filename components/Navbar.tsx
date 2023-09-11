@@ -1,9 +1,12 @@
-import React from "react";
+"use client";
+import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import { CustomButton } from ".";
+import { SignInButton } from ".";
+
 const Navbar = () => {
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <header className="w-full absolute z-10">
       <nav className="max-w-[1440px] mx-auto flex justify-between items-center sm:px-16 px-6 py-4">
@@ -17,11 +20,7 @@ const Navbar = () => {
           />
         </Link>
 
-        <CustomButton
-          title="Sign in"
-          containerStyles="text-primary-blue rounded-full bg-white min-w-[130px]"
-          btnType="button"
-        />
+        <SignInButton />
       </nav>
     </header>
   );

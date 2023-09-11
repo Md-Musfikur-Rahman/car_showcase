@@ -3,6 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import { CustomButton } from ".";
+import Link from "next/link";
 
 const Hero = () => {
   const handelScroll = () => {};
@@ -18,11 +19,13 @@ const Hero = () => {
           process.
         </p>
 
-        <CustomButton
-          title="Explore Cars"
-          containerStyles="bg-primary-blue text-white rounded-full mt-10"
-          handleClick={handelScroll}
-        />
+        <Link href={"#showCar"}>
+          <CustomButton
+            title="Explore Cars"
+            containerStyles="bg-primary-blue text-white rounded-full mt-10"
+            handleClick={handelScroll}
+          />
+        </Link>
       </div>
 
       <div className="hero__image-container">
