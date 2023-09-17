@@ -34,11 +34,16 @@ We welcome contributions, bug reports, and feature requests through pull request
 
 For a live demo, visit [Demo Link](https://cars-shows.vercel.app).
 
-## Socials
+## 🌐 Socials:
 
-[LinkedIn](https://www.linkedin.com/in/mdmusfikurrahman)
-[Instagram](https://www.instagram.com/mdmusfikurrahman23)
-[FaceBook](https://www.facebook.com/mdmusfikurrahman23)
-[Twitter](https://twitter.com/musfikurahman)
+### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmusfikurrahman23)
+
+### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmusfikurrahman23)
+
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmusfikurrahman)
+
+### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/musfikurahman)
+
+## Screenshot
 
 ![Screenshot](Screenshot.png)
