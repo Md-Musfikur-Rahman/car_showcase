@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### Welcome to the car rental website project
+Welcome to the Car Rental Website project!
 
 This Next.js and TypeScript-powered car rental website aims to provide a seamless car rental experience with the motto, "Find, book, or rent a car -- quickly and easily!" The website offers a range of functionalities, including user registration, advanced car search based on brand, model, fuel type, and build year. During the development phase, we tackled challenges related to TypeScript, form validation, and user authentication.
 
@@ -23,7 +23,7 @@ During our development journey, we faced several challenges:
 
 ## Getting Started
 
-### To start contributing to this project, follow these steps:
+To start contributing to this project, follow these steps:
 
 1. Clone this repository.
 2. Install the necessary dependencies using `npm install`.
@@ -36,13 +36,8 @@ For a live demo, visit [Demo Link](https://cars-shows.vercel.app).
 
 ## 🌐 Socials:
 
-### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmusfikurrahman23)
-
-### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmusfikurrahman23)
-
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmusfikurrahman)
-
-### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/musfikurahman)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/musfikurrahman002)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmusfikurrahman)
 
 ## Screenshot
 
