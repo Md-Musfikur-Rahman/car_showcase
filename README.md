@@ -1,11 +1,13 @@
-### Car Rental Website
+#### Car Rental Website
 
 This Next.js and TypeScript-powered car rental website aims to provide a seamless car rental experience with the motto, "Find, book, or rent a car -- quickly and easily!" The website offers a range of functionalities, including user registration, advanced car search based on brand, model, fuel type, and build year. During the development phase, we tackled challenges related to TypeScript, form validation, and user authentication.
+
 ---
 
 #### About
 
 The car rental website is developed and maintained by [Md Musfikur Rahman](https://www.musfikur.com) . It aims to simplify the car rental process and provide a convenient platform for users to find and book cars. We hope the website enhances the car rental experience for users and contributes to a seamless journey.
+
 ---
 
 #### Features
