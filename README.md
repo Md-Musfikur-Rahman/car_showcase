@@ -25,10 +25,9 @@ The car rental website is developed and maintained by [Md Musfikur Rahman](https
 - **Frontend**:
   - Next.js: A React framework for building server-side rendered and statically generated web applications.
   - TypeScript: A statically typed superset of JavaScript that enhances code quality and development experience.
-- **Backend**: (If applicable, specify any backend technologies used)
-- **Database**: (If applicable, specify any database technologies used)
-- **Authentication**: (Specify authentication mechanism used, e.g., JWT, OAuth)
-- **Deployment**: (Specify deployment platform, e.g., Vercel, AWS, Heroku)
+- **Database**: Rapidapi API library
+- **Authentication**: Specify authentication mechanism used OAuth
+- **Deployment**:  Vercel
 
 ---
 
